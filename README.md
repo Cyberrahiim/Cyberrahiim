@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🌟 About Me
 
-Hello! I'm [Your Name] — a passionate developer who loves turning complex problems into simple, elegant solutions.
+Hello! I'm [Abdiraxiin Hussein Mohamed] — a passionate developer who loves turning complex problems into simple, elegant solutions.
 
 🔭 I’m currently working on exciting open-source projects  
 🌱 I’m learning full-stack development & cloud computing  
@@ -25,6 +25,6 @@ Hello! I'm [Your Name] — a passionate developer who loves turning complex prob
 💬 Ask me about web dev, coding tips, or coffee  
 ⚡ Fun fact: I write code better than I cook 😄
 
-📫 How to reach me: [Twitter/GitHub/Email]
+📫 How to reach me: [Twitter/GitHub/Email: Abdiraxiinhussein4@gmail.com]
 
 ✨ *“Code is poetry in motion.”*
