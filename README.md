@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Cyberrahiim/Cyberrahiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abdirahiim/Abdirahiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
