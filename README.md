@@ -25,6 +25,6 @@ Hello! I'm [Abdiraxiin Hussein Mohamed] — a passionate developer who loves tur
 💬 Ask me about web dev, coding tips, or coffee  
 ⚡ Fun fact: I write code better than I cook 😄
 
-📫 How to reach me: [Twitter/GitHub/Email: Abdiraxiinhussein4@gmail.com]
+📫 How to reach me: [Twitter: https://www.threads.com/@ruslaan.58 /GitHub/Email: Abdiraxiinhussein4@gmail.com]
 
 ✨ *“Code is poetry in motion.”*
